@@ -1,0 +1,47 @@
+{
+    "dishes": [
+        {
+            "category": "meal",
+            "description": "Nice food",
+            "featured": false,
+            "id": 1,
+            "image": "./images/peakpx (1).jpg",
+            "label": "",
+            "name": "BBQ Chicken",
+            "price": 550
+
+        },
+        {
+            "category": "meal",
+            "description": "Nice Roast",
+            "featured": false,
+            "id": 2,
+            "image": "./images/peakpx (2).jpg",
+            "label": "",
+            "name": "BBQ Roast",
+            "price": 500
+
+        },
+        {
+            "category": "meal",
+            "description": "Nice mutton",
+            "featured": false,
+            "id": 3,
+            "image": "./images/peakpx (3).jpg",
+            "label": "",
+            "name": "BBQ Mutton",
+            "price": 560
+
+        },
+        {
+            "category": "coffee",
+            "description": "Nice coffee",
+            "featured": true,
+            "id": 4,
+            "image": "./images/peakpx (4).jpg",
+            "label": "",
+            "name": "Hot Coffee",
+            "price": 200
+        }
+    ]
+}
